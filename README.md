@@ -60,12 +60,12 @@ Tenho domínio em:
 
 ## 🛠️ Ferramentas e Tecnologias
 | Categoria | Ferramentas |
-|------------|--------------|
-| Gestão e bugs | Jira, Trello, Notion |
-| Testes e APIs | Postman, Browser DevTools |
-| Documentação | Excel, Word, Markdown |
-| Versionamento | Git, GitHub |
-| Metodologias | Scrum, Kanban |
+|--------------------------|
+| Gestão e bugs  Jira, Trello, Notion |
+| Testes e APIs  Postman, Browser DevTools |
+| Documentação  Excel, Word, Markdown |
+| Versionamento  Git, GitHub |
+| Metodologias  Scrum, Kanban |
 
 ---
 
