@@ -1,87 +1,58 @@
-<h1 align="center">👋 Olá! Eu sou o Lorenzo Knopf Curtinaz</h1>
+<h1 align="center">Hi there! 👋 I'm Lorenzo Knopf</h1>
+<p align="center">
+✨ QA Engineer | Test Automation | Cypress & JavaScript ✨  
+</p>
 
 <p align="center">
-  <b>Quality Assurance | Testes Manuais | Documentação Técnica</b><br>
-  Garantindo qualidade, clareza e confiabilidade em cada entrega.
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=22&center=true&vCenter=true&width=600&lines=Quality+Assurance+Engineer;DevOps+Enthusiast;Learning+new+technologies+every+day!" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🧩 Sobre mim
-
-Sou apaixonado por tecnologia e qualidade.  
-Atualmente, atuo na área de **QA (Quality Assurance)** com foco em **testes manuais** e **documentação detalhada**.  
-Minha trajetória combina a organização e a responsabilidade adquiridas em experiências administrativas e jurídicas com o olhar analítico da área de tecnologia.  
-
-Tenho domínio em:
-- Elaboração e execução de casos e planos de teste  
-- Registro e acompanhamento de bugs  
-- Documentação técnica clara e rastreável  
-- Metodologias ágeis (Scrum e Kanban)  
-- Comunicação eficiente entre QA, Dev e Product  
+## 🚀 About Me  
+- 🔭 I’m currently working on **Muitos Projetos**.  
+- 🌱 Learning **Automações E2E, Documentação de testes**.  
+- 🤝 Looking for **QA and Testing projects**.  
+- 📫 Contact me at: **lorenzokcurtinaz@gmail.com**.  
+- ⚡ Fun fact: **Eu sou um híbrido**.  
 
 ---
 
-## 💼 Projetos de QA
+## 🛠️ Tecnologias & Ferramentas
 
-### 🧠 **OrangeHRM**
-> Sistema de gestão de recursos humanos
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-**O que foi feito:**
-- Realizei testes manuais em módulos de login, cadastro e gerenciamento de funcionários.  
-- Criei e documentei casos e planos de teste baseados em requisitos funcionais.  
-- Registrei bugs detalhados, descrevendo passos, severidade e impacto.  
-- Produzi relatórios com resultados e sugestões de melhoria na usabilidade.  
-- Colaborei na validação de requisitos e revisão de fluxos críticos.
 
-📁 **Principais entregas:**
-- Casos de teste: `OrangeHRM_TestCases.xlsx`  
-- Relatórios: `BugReport_OrangeHRM.md`  
-- Documentação: `TestPlan_OrangeHRM.docx`  
 
 ---
 
-### 🌐 **Realworld App**
-> Aplicação web de criação e publicação de artigos
-
-**O que foi feito:**
-- Testes manuais em funcionalidades principais (login, cadastro, publicação e edição de artigos).  
-- Criação de planos de teste com cenários positivos, negativos e exploratórios.  
-- Documentação de bugs e comportamento inesperado do sistema.  
-- Organização de evidências de teste e comunicação direta com a equipe de desenvolvimento.  
-- Validação de critérios de aceitação e cenários de borda.
-
-📁 **Principais entregas:**
-- Casos de teste: `Realworld_TestCases.xlsx`  
-- Relatórios de bug: `BugReport_Realworld.md`  
-- Documentação: `TestPlan_Realworld.docx`
-
----
-
-## 🛠️ Ferramentas e Tecnologias
-| Categoria | Ferramentas |
-|--------------------------|
-| Gestão e bugs  Jira, Trello, Notion |
-| Testes e APIs  Postman, Browser DevTools |
-| Documentação  Excel, Word, Markdown |
-| Versionamento  Git, GitHub |
-| Metodologias  Scrum, Kanban |
-
----
-
-## 🚀 Objetivo Profissional
-Consolidar minha carreira em **Quality Assurance**, atuando de forma estratégica para aprimorar processos, eliminar falhas e garantir a excelência dos produtos entregues.  
-Busco evoluir tecnicamente e contribuir para equipes que valorizam qualidade, clareza e melhoria contínua.
-
----
-
-## 📬 Contato
-- 💼 [LinkedIn](https://www.linkedin.com/in/lorenzo-curtinaz-1542302b5/)  
-- 📧 **lorenzo.curtinaz@gmail.com**  
-- 🧰 **Portfólio QA:** *(em breve aqui no GitHub)*  
-
----
+## 📊 GitHub Stats  
 
 <p align="center">
-  <sub>“Qualidade não é um ato, é um hábito.” — Aristóteles</sub>
+  <img src="https://github-readme-stats.vercel.app/api?username=marciaxavier&show_icons=true&theme=dracula" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciaxavier&layout=compact&theme=dracula" alt="Top Languages" height="165" />
 </p>
+
+---
+
+## 🌍 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorenzo-curtinaz-1542302b5/)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Loyaokz)  
+
+---
+
+### 🎯 Goals for 2026  
+✔️ **Build a strong QA portfolio**  
+✔️ **Learn advanced automation with Cypress and Playwright**  
+✔️ **Get certified in ISTQB and CTFL**  
+✔️ **Deploy and automate cloud infrastructure**  
+
+---
+
+
+
+
