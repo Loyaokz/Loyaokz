@@ -33,8 +33,8 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marciaxavier&show_icons=true&theme=dracula" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciaxavier&layout=compact&theme=dracula" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lorenzo&show_icons=true&theme=dracula" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lorenzo&layout=compact&theme=dracula" alt="Top Languages" height="165" />
 </p>
 
 ---
